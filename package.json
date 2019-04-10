@@ -2,7 +2,8 @@
   "name": "goodbooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sauravazad.github.io/goodreads",
+  "repository": "https://github.com/sauravazad/goodreadswebapp",
+  "homepage": "http://sauravazad.github.io/goodreadswebapp",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
