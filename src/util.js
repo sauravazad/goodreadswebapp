@@ -29,7 +29,7 @@ export const formatData = data => {
     const { best_book = {} } = book;
     const { author = {} } = best_book;
     const final = {
-      ...books,
+      ...book,
       ...author,
       ...best_book
     };
